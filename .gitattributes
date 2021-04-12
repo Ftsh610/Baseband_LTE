@@ -5,3 +5,4 @@
 *.ctl linguist-language=LabVIEW
 *.xctl linguist-language=LabVIEW
 *.xnode linguist-language=LabVIEW
+*.lvproj linguist-language=LabVIEW
